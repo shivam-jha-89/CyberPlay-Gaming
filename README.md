@@ -1,10 +1,12 @@
 # 🎮 Gaming Website – Immersive Gaming Frontend
+# Designed & Developed by Shivam Kumar
+                   © 2026 Shivam Kumar. All Rights Reserved.
 
 A modern, award-style **gaming frontend website** built using **Vite + React**, styled with **Tailwind CSS**, and enhanced with **GSAP animations** for smooth, cinematic user interactions.
 
 This project focuses on **high-end UI/UX**, **motion design**, and **performance-optimized frontend architecture**.
 
-🔗 **Live Demo:** https://game-website-amber.vercel.app/
+🔗 **Live Demo:** https://cyber-play-gaming.vercel.app/
 
 ---
 
@@ -61,7 +63,7 @@ AWWARD/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/awward.git
+git clone https://github.com/shivam-jha-89/CyberPlay-Gaming
 ```
 
 ### 2️⃣ Navigate to the Project
